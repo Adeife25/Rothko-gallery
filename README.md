@@ -32,5 +32,4 @@ Ensuring responsiveness while maintaining aesthetic balance
 
 🚀 Live Preview
 👉 Click here to view Rothko Gallery
-https://github.com/yourusername/rothko-gallery
-
+https://adeife25.github.io/Rothko-gallery/
